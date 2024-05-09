@@ -8,19 +8,13 @@
 
 ## SERVICES
 
-- [Gmail](https://mail.google.com/)
-- [Yandex Mail](https://mail.yandex.com/)
-- [Perplexity AI](https://www.perplexity.ai/)
-- [Google Calendar](https://calendar.google.com/calendar)
-- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
-- [Yandex Translate](https://translate.yandex.com/)
-- [Weather](https://yandex.ru/pogoda/)
-- [Yandex Disk](https://disk.yandex.com/client/disk)
-- [VK](https://vk.com/im)
-- [YouTube](https://www.youtube.com/)
-- [Яндекс Карты](https://yandex.ru/maps/)
-- [Google Lens](https://lens.google.com/)
-- [Hitmo](https://rus.hitmotop.com/)
+| Yandex | Google | Other |
+|---|---|---|
+| [Yandex Mail](https://mail.yandex.com/) | [Gmail](https://mail.google.com/) | [Perplexity AI](https://www.perplexity.ai/) |
+| [Yandex Translate](https://translate.yandex.com/) | [Google Calendar](https://calendar.google.com/calendar) | [Hitmo](https://rus.hitmotop.com/) |
+| [Yandex Disk](https://disk.yandex.com/client/disk) | [Google Sheets](https://docs.google.com/spreadsheets/u/0/) | [VK](https://vk.com/im) |
+| [Яндекс Карты](https://yandex.ru/maps/) | [Google Lens](https://lens.google.com/) |  |
+| [Yandex Weather](https://yandex.ru/pogoda/) | [YouTube](https://www.youtube.com/) |  |
 
 ## SELF-EDU
 
