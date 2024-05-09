@@ -2,6 +2,13 @@
 
 ## SUSU_EDU
 
+- [ЮУрГУ онлайн](https://edu.susu.ru/my/)
+- [ЮУрГУ расписание](https://pwa.susu.ru/Auth?ReturnUrl=%2F)
+- [ЭБС Лань](https://e.lanbook.com/)
+- [МООК](https://mooc.susu.ru/moodle/my/)
+- [Научная библиотека ЮУрГУ](https://lib.susu.ru/)
+- [router](http://192.168.1.1/)
+- [Система город](https://ivpaynew.chelinvest.ru/)
 
 ## All
 
@@ -133,32 +140,7 @@ Name: Sokolovsky Maxim&#39;s Blog - Scientific Research
 URL: https://sokolovskymaximsblog.godaddysites.com/
 Name: Google Translate
 URL: https://translate.google.com/
-Name: Цифровая кафедра — Личный кабинет
-URL: https://do.susu.ru/moodle/my/
-Name: Универс (univeris)
-URL: https://studlk.susu.ru/ru/StudyPlan/StudyPlanView
-Name: Официальный сайт ЮУрГУ
-URL: https://abit.susu.ru/
-Name: Личный кабинет пользователя интернета ЮУрГУ
-URL: https://lk.susu.ru/#
-Name: Система город
-URL: https://ivpaynew.chelinvest.ru/
-Name: Библиотека. История России.
-URL: https://statehistory.ru/history-lib/
-Name: ЭБС Лань
-URL: https://e.lanbook.com/
-Name: Методические материалы | Кафедра физики наноразмерных систем
-URL: https://physics.susu.ru/labs
-Name: ЮУрГУ-Онлайн
-URL: https://pwa.susu.ru/Auth?ReturnUrl=%2F
-Name: mooc susu
-URL: https://mooc.susu.ru/moodle/my/
-Name: router
-URL: http://192.168.1.1/#qos
-Name: Научная библиотека ЮУрГУ
-URL: https://lib.susu.ru/
-Name: ЮУрГУ онлайн (susu)
-URL: https://edu.susu.ru/my/
+
 Name: Разминка перед тренировкой: 30 лучших упражнений (фото)
 URL: https://goodlooker.ru/razminka-pered-trenirovkoi.html
 Name: Как оформить презентацию: 45 идей для вдохновения
