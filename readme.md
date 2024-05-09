@@ -18,149 +18,75 @@
 
 ## All
 
-Name: Gmail
-URL: https://mail.google.com/
-Name: Yandex Mail
-URL: https://mail.yandex.com/
-Name: Perplexity AI
-URL: https://www.perplexity.ai/
-Name: Google Calendar
-URL: https://calendar.google.com/calendar
-Name: Google Sheets
-URL: https://docs.google.com/spreadsheets/u/0/
-Name: Yandex Translate
-URL: https://translate.yandex.com/
-Name: Weather
-URL: https://yandex.ru/pogoda/
-Name: Триколор ТВ
-URL: https://kino.tricolor.tv/channels/
-Name: Yandex Disk
-URL: https://disk.yandex.com/client/disk
-Name: VK
-URL: https://vk.com/im
-Name: YouTube
-URL: https://www.youtube.com/
-Name: Google Earth
-URL: https://earth.google.com/web/@56.05352893,60.21841701,384.1315918a,0d,60y,7.77434623h,85.02782231t,0r/data=IhoKFnJONVZOR0RiYk84N3hvY24zQkI5UFEQAg
-Name: Яндекс. Карты
-URL: https://yandex.ru/maps/
-Name: Freepik
-URL: https://www.freepik.com/
-Name: Inoriginal
-URL: https://reserve.inoriginal.online/
-Name: Sci-Hub
-URL: https://sci-hub.se/
-Name: Library Genesis
-URL: https://libgen.rs/
-Name: Internet Archive
-URL: https://archive.org/
-Name: Anna’s Archive
-URL: https://annas-archive.se/
-Name: Moviesjoy
-URL: https://moviesjoy.plus/home
-Name: Klavarog
-URL: https://klava.org/delta/#eng_begin
-Name: ЧОУНБ - Электронный каталог
-URL: https://opac.chelreglib.ru/wl/
-
-Name: Google Lens
-URL: https://lens.google.com/search?p&pli=1
-Name: Семьи
-URL: https://families.google.com/u/1/families?pageId=none
-Name: Онлайн Unix time конвертер
-URL: https://i-leon.ru/tools/time
-Name: Перевод единиц измерения | Онлайн калькулятор
-URL: https://allcalc.ru/converter
-Name: Яндекс.Интернетометр — проверка скорости интернета
-URL: https://yandex.ru/internet/
-Name: DjVu в PDF – Конвертация DjVu файлов в PDF формат
-URL: https://djvu2pdf.com/ru/
-Name: Torrent клиент
-URL: https://webtor.io/#/ru/
-Name: «Наука 2.0» прямой эфир - смотреть онлайн бесплатно
-URL: http://telik.live/nauka.html
-Name: Наука - программа телеканала
-URL: https://tv.mail.ru/cheljabinsk/channel/888/
-Name: OCR Convert
-URL: https://www.ocrconvert.com/
-Name: Универсальный декодер - конвертер кириллицы
-URL: https://2cyr.com/decode/?lang=ru
-Name: rutor.info
-URL: http://6tor.org/
-Name: RuTracker
-URL: https://rutracker.org/forum/viewforum.php?f=1649
-Name: ChatGPT
-URL: https://chat.openai.com/
-Name: Слушать и скачать музыку бесплатно: новинки Mp3 музыки - Hitmo
-URL: https://rus.hitmotop.com/
-Name: Research Rabbit
-URL: https://researchrabbitapp.com/home
-
-Name: GoDaddy
-URL: https://www.godaddy.com/
-
-Name: Convert Word to PDF
-URL: https://pdf.io/doc2pdf/
-Name: Savesubs
-URL: https://savesubs.com/
-Name: DeepL Translate
-URL: https://www.deepl.com/translator
-Name: Syncthing
-URL: http://localhost:8384/
-Name: PDF Converter + 46 Online PDF Tools – PDF Candy
-URL: https://pdfcandy.com/
-Name: Photopea
-URL: https://www.photopea.com/
-Name: Create GIF from (YouTube) video - online and free
-URL: https://youtube-to-gif.file-converter-online.com/
-Name: ddg mails
-URL: https://duckduckgo.com/email/settings/
-Name: Облако Mail.ru - Бесплатное облачное хранилище для передачи и хранения данных онлайн
-URL: https://cloud.mail.ru/
-Name: Google Keep
-URL: https://keep.google.com/
-Name: AI Chat
-URL: https://duckduckgo.com/?q=DuckDuckGo&ia=chat
-Name: Cambridge English Dictionary: Meanings &amp; Definitions
-URL: https://dictionary.cambridge.org/dictionary/english/
-Name: GeoGebra
-URL: https://www.geogebra.org/
-Name: Sci-Hub
-URL: https://www.sci-hub.ru/
-Name: Европейская школа корреспондентского обучения
-URL: https://www.escc.ru/login
-Name: alleng
-URL: https://www.at.alleng.org/
-Name: Викисловарь
-URL: https://www.wiktionary.org/
-Name: Википедия
-URL: https://www.wikipedia.org/
-Name: Blog
-URL: https://blogging.godaddy.com/blog/b5c9d0ea-03b1-4c54-8131-9e437120a36b/posts
-Name: Sokolovsky Maxim&#39;s Blog - Scientific Research
-URL: https://sokolovskymaximsblog.godaddysites.com/
-Name: Google Translate
-URL: https://translate.google.com/
-
-URL: https://sgo.edu-74.ru/
-Name: ВФСК ГТО
-URL: https://gto.ru/
-Name: Портал государственных услуг Российской Федерации
-URL: https://lk.gosuslugi.ru/settings/account
-Name: Wildberries - модный интернет магазин
-URL: https://www.wildberries.ru/lk/myorders/delivery
-Name: СберБанк Онлайн
-URL: https://web4.online.sberbank.ru/main
-Name: Тинькофф банк
-URL: https://www.tinkoff.ru/summary/
-Name: OZON
-URL: https://www.ozon.ru/my/orderlist
-Name: Личный кабинет | Выручай-карта
-URL: https://5ka.ru/my
-Name: Магнит - личный кабинет
-URL: https://new.moy.magnit.ru/dashboard/settings/
-Name: Теле2 - Личный кабинет
-URL: https://chelyabinsk.tele2.ru/lk/remains
-Name: Мои чеки онлайн
-URL: https://lkdr.nalog.ru/
+- [Gmail](https://mail.google.com/)
+- [Yandex Mail](https://mail.yandex.com/)
+- [Perplexity AI](https://www.perplexity.ai/)
+- [Google Calendar](https://calendar.google.com/calendar)
+- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
+- [Yandex Translate](https://translate.yandex.com/)
+- [Weather](https://yandex.ru/pogoda/)
+- [Триколор ТВ](https://kino.tricolor.tv/channels/)
+- [Yandex Disk](https://disk.yandex.com/client/disk)
+- [VK](https://vk.com/im)
+- [YouTube](https://www.youtube.com/)
+- [Google Earth](https://earth.google.com/web/@56.05352893,60.21841701,384.1315918a,0d,60y,7.77434623h,85.02782231t,0r/data=IhoKFnJONVZOR0RiYk84N3hvY24zQkI5UFEQAg)
+- [Яндекс. Карты](https://yandex.ru/maps/)
+- [Freepik](https://www.freepik.com/)
+- [Inoriginal](https://reserve.inoriginal.online/)
+- [Sci-Hub](https://sci-hub.se/)
+- [Library Genesis](https://libgen.rs/)
+- [Internet Archive](https://archive.org/)
+- [Anna’s Archive](https://annas-archive.se/)
+- [Moviesjoy](https://moviesjoy.plus/home)
+- [Klavarog](https://klava.org/delta/#eng_begin)
+- [ЧОУНБ - Электронный каталог](https://opac.chelreglib.ru/wl/)
+- [Google Lens](https://lens.google.com/search?p&pli=1)
+- [Семьи](https://families.google.com/u/1/families?pageId=none)
+- [Онлайн Unix time конвертер](https://i-leon.ru/tools/time)
+- [Перевод единиц измерения | Онлайн калькулятор](https://allcalc.ru/converter)
+- [Яндекс.Интернетометр — проверка скорости интернета](https://yandex.ru/internet/)
+- [DjVu в PDF – Конвертация DjVu файлов в PDF формат](https://djvu2pdf.com/ru/)
+- [Torrent клиент](https://webtor.io/#/ru/)
+- [«Наука 2.0» прямой эфир - смотреть онлайн бесплатно](http://telik.live/nauka.html)
+- [Наука - программа телеканала](https://tv.mail.ru/cheljabinsk/channel/888/)
+- [OCR Convert](https://www.ocrconvert.com/)
+- [Универсальный декодер - конвертер кириллицы](https://2cyr.com/decode/?lang=ru)
+- [rutor.info](http://6tor.org/)
+- [RuTracker](https://rutracker.org/forum/viewforum.php?f=1649)
+- [ChatGPT](https://chat.openai.com/)
+- [Слушать и скачать музыку бесплатно: новинки Mp3 музыки - Hitmo](https://rus.hitmotop.com/)
+- [Research Rabbit](https://researchrabbitapp.com/home)
+- [GoDaddy](https://www.godaddy.com/)
+- [Convert Word to PDF](https://pdf.io/doc2pdf/)
+- [Savesubs](https://savesubs.com/)
+- [DeepL Translate](https://www.deepl.com/translator)
+- [Syncthing](http://localhost:8384/)
+- [PDF Converter + 46 Online PDF Tools – PDF Candy](https://pdfcandy.com/)
+- [Photopea](https://www.photopea.com/)
+- [Create GIF from (YouTube) video - online and free](https://youtube-to-gif.file-converter-online.com/)
+- [ddg mails](https://duckduckgo.com/email/settings/)
+- [Облако Mail.ru - Бесплатное облачное хранилище для передачи и хранения данных онлайн](https://cloud.mail.ru/)
+- [Google Keep](https://keep.google.com/)
+- [AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+- [Cambridge English Dictionary: Meanings & Definitions](https://dictionary.cambridge.org/dictionary/english/)
+- [GeoGebra](https://www.geogebra.org/)
+- [Sci-Hub](https://www.sci-hub.ru/)
+- [Европейская школа корреспондентского обучения](https://www.escc.ru/login)
+- [alleng](https://www.at.alleng.org/)
+- [Викисловарь](https://www.wiktionary.org/)
+- [Википедия](https://www.wikipedia.org/)
+- [Blog](https://blogging.godaddy.com/blog/b5c9d0ea-03b1-4c54-8131-9e437120a36b/posts)
+- [Sokolovsky Maxim's Blog - Scientific Research](https://sokolovskymaximsblog.godaddysites.com/)
+- [Google Translate](https://translate.google.com/)
+- [https://sgo.edu-74.ru/](https://sgo.edu-74.ru/)
+- [ВФСК ГТО](https://gto.ru/)
+- [Портал государственных услуг Российской Федерации](https://lk.gosuslugi.ru/settings/account)
+- [Wildberries - модный интернет магазин](https://www.wildberries.ru/lk/myorders/delivery)
+- [СберБанк Онлайн](https://web4.online.sberbank.ru/main)
+- [Тинькофф банк](https://www.tinkoff.ru/summary/)
+- [OZON](https://www.ozon.ru/my/orderlist)
+- [Личный кабинет | Выручай-карта](https://5ka.ru/my)
+- [Магнит - личный кабинет](https://new.moy.magnit.ru/dashboard/settings/)
+- [Теле2 - Личный кабинет](https://chelyabinsk.tele2.ru/lk/remains)
+- [Мои чеки онлайн](https://lkdr.nalog.ru/)
 
