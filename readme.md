@@ -1,10 +1,34 @@
-# PSWEF (web only)
+![image](https://github.com/SokolovskyMaxim/pswef-web/assets/106545001/97dd0c3f-0938-4189-972b-894081726e56)# PSWEF (web only)
 
-## Tools
+## TOOLS
 
 - [MediaFire](https://app.mediafire.com/myfiles)
 - [FastPic](https://new.fastpic.org/)
 - [pastebin](https://pastebin.com/)
+
+## SERVICES
+
+- [Gmail](https://mail.google.com/)
+- [Yandex Mail](https://mail.yandex.com/)
+- [Perplexity AI](https://www.perplexity.ai/)
+- [Google Calendar](https://calendar.google.com/calendar)
+- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
+- [Yandex Translate](https://translate.yandex.com/)
+- [Weather](https://yandex.ru/pogoda/)
+- [Yandex Disk](https://disk.yandex.com/client/disk)
+- [VK](https://vk.com/im)
+- [YouTube](https://www.youtube.com/)
+- [Яндекс Карты](https://yandex.ru/maps/)
+- [Google Lens](https://lens.google.com/)
+- [Hitmo](https://rus.hitmotop.com/)
+
+## SELF-EDU
+
+- [Sci-Hub](https://sci-hub.se/)
+- [Library Genesis](https://libgen.rs/)
+- [Internet Archive](https://archive.org/)
+- [Anna’s Archive](https://annas-archive.se/)
+- [Research Rabbit](https://researchrabbitapp.com/home)
 
 ## SUSU_EDU
 
@@ -15,32 +39,21 @@
 - [Научная библиотека ЮУрГУ](https://lib.susu.ru/)
 - [router](http://192.168.1.1/)
 - [Система город](https://ivpaynew.chelinvest.ru/)
+- [ЧОУНБ - Электронный каталог](https://opac.chelreglib.ru/wl/)
 
-## All
+## Other
 
-- [Gmail](https://mail.google.com/)
-- [Yandex Mail](https://mail.yandex.com/)
-- [Perplexity AI](https://www.perplexity.ai/)
-- [Google Calendar](https://calendar.google.com/calendar)
-- [Google Sheets](https://docs.google.com/spreadsheets/u/0/)
-- [Yandex Translate](https://translate.yandex.com/)
-- [Weather](https://yandex.ru/pogoda/)
+
 - [Триколор ТВ](https://kino.tricolor.tv/channels/)
-- [Yandex Disk](https://disk.yandex.com/client/disk)
-- [VK](https://vk.com/im)
-- [YouTube](https://www.youtube.com/)
+
 - [Google Earth](https://earth.google.com/web/@56.05352893,60.21841701,384.1315918a,0d,60y,7.77434623h,85.02782231t,0r/data=IhoKFnJONVZOR0RiYk84N3hvY24zQkI5UFEQAg)
-- [Яндекс. Карты](https://yandex.ru/maps/)
 - [Freepik](https://www.freepik.com/)
 - [Inoriginal](https://reserve.inoriginal.online/)
-- [Sci-Hub](https://sci-hub.se/)
-- [Library Genesis](https://libgen.rs/)
-- [Internet Archive](https://archive.org/)
-- [Anna’s Archive](https://annas-archive.se/)
+
 - [Moviesjoy](https://moviesjoy.plus/home)
 - [Klavarog](https://klava.org/delta/#eng_begin)
-- [ЧОУНБ - Электронный каталог](https://opac.chelreglib.ru/wl/)
-- [Google Lens](https://lens.google.com/search?p&pli=1)
+
+
 - [Семьи](https://families.google.com/u/1/families?pageId=none)
 - [Онлайн Unix time конвертер](https://i-leon.ru/tools/time)
 - [Перевод единиц измерения | Онлайн калькулятор](https://allcalc.ru/converter)
@@ -54,8 +67,8 @@
 - [rutor.info](http://6tor.org/)
 - [RuTracker](https://rutracker.org/forum/viewforum.php?f=1649)
 - [ChatGPT](https://chat.openai.com/)
-- [Слушать и скачать музыку бесплатно: новинки Mp3 музыки - Hitmo](https://rus.hitmotop.com/)
-- [Research Rabbit](https://researchrabbitapp.com/home)
+
+
 - [GoDaddy](https://www.godaddy.com/)
 - [Convert Word to PDF](https://pdf.io/doc2pdf/)
 - [Savesubs](https://savesubs.com/)
@@ -78,6 +91,9 @@
 - [Blog](https://blogging.godaddy.com/blog/b5c9d0ea-03b1-4c54-8131-9e437120a36b/posts)
 - [Sokolovsky Maxim's Blog - Scientific Research](https://sokolovskymaximsblog.godaddysites.com/)
 - [Google Translate](https://translate.google.com/)
+
+## Услуги и серсисы РФ
+
 - [https://sgo.edu-74.ru/](https://sgo.edu-74.ru/)
 - [ВФСК ГТО](https://gto.ru/)
 - [Портал государственных услуг Российской Федерации](https://lk.gosuslugi.ru/settings/account)
@@ -89,4 +105,3 @@
 - [Магнит - личный кабинет](https://new.moy.magnit.ru/dashboard/settings/)
 - [Теле2 - Личный кабинет](https://chelyabinsk.tele2.ru/lk/remains)
 - [Мои чеки онлайн](https://lkdr.nalog.ru/)
-
