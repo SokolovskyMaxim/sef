@@ -4,7 +4,7 @@
 
 - [MediaFire](https://app.mediafire.com/myfiles)
 - [FastPic](https://new.fastpic.org/)
-- [Hastebin](https://www.toptal.com/developers/hastebin)
+- [pastebin](https://pastebin.com/)
 
 ## SUSU_EDU
 
@@ -62,8 +62,7 @@ Name: Klavarog
 URL: https://klava.org/delta/#eng_begin
 Name: ЧОУНБ - Электронный каталог
 URL: https://opac.chelreglib.ru/wl/
-Name: pastebin.com
-URL: https://pastebin.com/
+
 Name: Google Lens
 URL: https://lens.google.com/search?p&pli=1
 Name: Семьи
