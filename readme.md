@@ -1,4 +1,4 @@
-![image](https://github.com/SokolovskyMaxim/pswef-web/assets/106545001/97dd0c3f-0938-4189-972b-894081726e56)# PSWEF (web only)
+# PSWEF (web only)
 
 ## TOOLS
 
