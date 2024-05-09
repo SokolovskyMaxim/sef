@@ -141,57 +141,6 @@ URL: https://sokolovskymaximsblog.godaddysites.com/
 Name: Google Translate
 URL: https://translate.google.com/
 
-Name: Разминка перед тренировкой: 30 лучших упражнений (фото)
-URL: https://goodlooker.ru/razminka-pered-trenirovkoi.html
-Name: Как оформить презентацию: 45 идей для вдохновения
-URL: https://www.ispring.ru/elearning-insights/kak-oformit-prezentaciyu
-Name: Литрекон - литературный журнал
-URL: https://litrekon.ru/
-Name: GitLab Gnome
-URL: https://gitlab.gnome.org/explore/groups
-Name: Е. И. Замятин. Мы. Текст произведения. Запись 9-ая
-URL: https://ilibrary.ru/text/1494/p.9/index.html
-Name: Lib.ru/Классика: Чехов Антон Павлович. Рассказы и повести 1898-1903 гг
-URL: http://az.lib.ru/c/chehow_a_p/text_0100.shtml#04
-Name: Как пользоваться командой top для наблюдения за процессами в Linux - ZaLinux.ru
-URL: https://zalinux.ru/?p=1811
-Name: login - Как изменить задержку, возникающую после ввода неправильного пароля? - Обмен стеками Unix и Linux
-URL: https://translated.turbopages.org/proxy_u/en-ru.ru.89c12497-622b81b3-1c485fe0-74722d776562/https/unix.stackexchange.com/questions/40954/how-does-one-change-the-delay-that-occurs-after-entering-an-incorrect-password
-Name: В. В. Маяковский. Облако в штанах. Текст произведения
-URL: https://ilibrary.ru/text/1241/p.1/index.html
-Name: ЕГЭ–2022, физика: задания, ответы, решения. Обучающая система Дмитрия Гущина.
-URL: https://phys-ege.sdamgia.ru/search
-Name: Установка видеокарт Intel в linux — Пингвиньи радости
-URL: http://tdkare.ru/sysadmin/index.php/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82_Intel_%D0%B2_linux
-Name: Часто задаваемые вопросы | 01.org
-URL: https://01.org/linuxgraphics/faq
-Name: SDB:Настройка видеокарт — openSUSE Wiki
-URL: https://en.opensuse.org/SDB:Configuring_graphics_cards
-Name: Intel HD Graphics (Intel core I3) с Suse 11.3
-URL: https://forums.opensuse.org/showthread.php/452160-Intel-HD-Graphics-(Intel-core-I3)-with-Suse-11-3
-Name: Аппаратное ускорение видео — ArchWiki
-URL: https://wiki.archlinux.org/title/Hardware_video_acceleration#Intel
-Name: Установка видеокарт Intel в linux — Пингвиньи радости
-URL: http://tdkare.ru/sysadmin/index.php/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82_Intel_%D0%B2_linux
-Name: Часто задаваемые вопросы | 01.org
-URL: https://01.org/linuxgraphics/faq
-Name: SDB:Настройка видеокарт — openSUSE Wiki
-URL: https://en.opensuse.org/SDB:Configuring_graphics_cards
-Name: Intel HD Graphics (Intel core I3) с Suse 11.3
-URL: https://forums.opensuse.org/showthread.php/452160-Intel-HD-Graphics-(Intel-core-I3)-with-Suse-11-3
-Name: Аппаратное ускорение видео — ArchWiki
-URL: https://wiki.archlinux.org/title/Hardware_video_acceleration#Intel
-Name: Обои
-URL: https://wallscloud.net/ru/resolution/3840x2160?page=2
-Name: Объявления - Сообщество KDE
-URL: https://kde.org/announcements/
-Name: Что такое Bullet Journal и как им пользоваться
-URL: https://yandex.ru/turbo/lifehacker.ru/s/chto-takoe-bullet-journal/
-Name: ЕГЭ−2022, Математика профильного уровня: задания, ответы, решения. Обучающая система Дмитрия Гущина
-URL: https://ege.sdamgia.ru/
-Name: Переводчик
-URL: https://www.translate.ru/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4
-Name: Сетевой Город. Образование
 URL: https://sgo.edu-74.ru/
 Name: ВФСК ГТО
 URL: https://gto.ru/
