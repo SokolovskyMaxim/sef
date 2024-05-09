@@ -26,14 +26,12 @@
 
 ## SUSU_EDU
 
-- [ЮУрГУ онлайн](https://edu.susu.ru/my/)
-- [ЮУрГУ расписание](https://pwa.susu.ru/Auth?ReturnUrl=%2F)
-- [ЭБС Лань](https://e.lanbook.com/)
-- [МООК](https://mooc.susu.ru/moodle/my/)
-- [Научная библиотека ЮУрГУ](https://lib.susu.ru/)
-- [router](http://192.168.1.1/)
-- [Система город](https://ivpaynew.chelinvest.ru/)
-- [ЧОУНБ - Электронный каталог](https://opac.chelreglib.ru/wl/)
+| ЮУрГУ | Другое |
+|---|---|
+| [ЮУрГУ онлайн](https://edu.susu.ru/my/) | [router](http://192.168.1.1/) |
+| [ЮУрГУ расписание](https://pwa.susu.ru) | [Система город](https://ivpaynew.chelinvest.ru/) |
+| [МООК](https://mooc.susu.ru/moodle/my/) | [ЧОУНБ - Электронный каталог](https://opac.chelreglib.ru/wl/) |
+| [Научная библиотека ЮУрГУ](https://lib.susu.ru/) | [ЭБС Лань](https://e.lanbook.com/) |
 
 ## Other
 
