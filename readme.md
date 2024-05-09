@@ -1,5 +1,11 @@
 # PSWEF (web only)
 
+## Tools
+
+- [MediaFire](https://app.mediafire.com/myfiles)
+- [FastPic](https://new.fastpic.org/)
+- [Hastebin](https://www.toptal.com/developers/hastebin)
+
 ## SUSU_EDU
 
 - [ЮУрГУ онлайн](https://edu.susu.ru/my/)
@@ -90,14 +96,10 @@ Name: Слушать и скачать музыку бесплатно: нови
 URL: https://rus.hitmotop.com/
 Name: Research Rabbit
 URL: https://researchrabbitapp.com/home
-Name: FastPic
-URL: https://new.fastpic.org/
-Name: Hastebin
-URL: https://www.toptal.com/developers/hastebin
+
 Name: GoDaddy
 URL: https://www.godaddy.com/
-Name: MediaFire
-URL: https://app.mediafire.com/myfiles
+
 Name: Convert Word to PDF
 URL: https://pdf.io/doc2pdf/
 Name: Savesubs
