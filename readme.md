@@ -43,7 +43,6 @@
 
 ## Other
 
-
 - [Триколор ТВ](https://kino.tricolor.tv/channels/)
 
 - [Google Earth](https://earth.google.com/web/@56.05352893,60.21841701,384.1315918a,0d,60y,7.77434623h,85.02782231t,0r/data=IhoKFnJONVZOR0RiYk84N3hvY24zQkI5UFEQAg)
@@ -52,7 +51,6 @@
 
 - [Moviesjoy](https://moviesjoy.plus/home)
 - [Klavarog](https://klava.org/delta/#eng_begin)
-
 
 - [Семьи](https://families.google.com/u/1/families?pageId=none)
 - [Онлайн Unix time конвертер](https://i-leon.ru/tools/time)
@@ -67,7 +65,6 @@
 - [rutor.info](http://6tor.org/)
 - [RuTracker](https://rutracker.org/forum/viewforum.php?f=1649)
 - [ChatGPT](https://chat.openai.com/)
-
 
 - [GoDaddy](https://www.godaddy.com/)
 - [Convert Word to PDF](https://pdf.io/doc2pdf/)
