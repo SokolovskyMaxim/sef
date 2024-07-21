@@ -1,4 +1,4 @@
-# PSWEF (web only)
+# SEF (web only)
 
 ## TOOLS
 
@@ -32,6 +32,7 @@
 | [ЮУрГУ расписание](https://pwa.susu.ru) | [Система город](https://ivpaynew.chelinvest.ru/) |
 | [МООК](https://mooc.susu.ru/moodle/my/) | [ЧОУНБ - Электронный каталог](https://opac.chelreglib.ru/wl/) |
 | [Научная библиотека ЮУрГУ](https://lib.susu.ru/) | [ЭБС Лань](https://e.lanbook.com/) |
+| | [Интернет SUSU](https://lk.susu.ru/) |
 
 ## Other
 
